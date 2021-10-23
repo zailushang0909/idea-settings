@@ -1,0 +1,14 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="java.text.SimpleDateFormat.SimpleDateFormat(pattern)" />
+        <added pattern="java.io.File.File(pathname)" />
+        <added pattern="java.io.FileOutputStream.FileOutputStream(name)" />
+        <added pattern="java.io.FileInputStream.FileInputStream(name)" />
+        <added pattern="java.lang.ClassLoader.getResourceAsStream(name)" />
+        <added pattern="javax.servlet.ServletRequest.getParameter(name)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>

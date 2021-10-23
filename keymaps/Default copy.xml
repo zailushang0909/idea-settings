@@ -1,0 +1,11 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
+  <action id="HippieCompletion" />
+  <action id="Uml.NodeIntentions" />
+</keymap>

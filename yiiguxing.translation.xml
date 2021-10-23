@@ -1,0 +1,76 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogHeight" value="466" />
+    <option name="newTranslationDialogWidth" value="977" />
+    <option name="newTranslationDialogX" value="301" />
+    <option name="newTranslationDialogY" value="206" />
+    <histories>
+      <item value="execute Change" />
+      <item value="ils.execute Change(" />
+      <item value="perti2_21_0_, file0_.create_date as create_d3_21_0_, fil" />
+      <item value="org.apache.poi.poifs.filesystem.OfficeXmlFileException: The supplied data appears to be in the Office 2007+ XML. You are calling the part of POI that deals with OLE2 Office Documents. You need to call a different part of POI to process this data (eg XSSF instead of HSSF)" />
+      <item value="Target host is not specified" />
+      <item value="get Import Key" />
+      <item value="The supplied data appears to be in the OLE2 Format. You are calling the part of POI that deals with OOXML (Office Open XML) Documents. You need to call a different part of POI to process this data" />
+      <item value="The supplied data appears to be in the OLE2 Format. You are calling the part of POI that deals with OOXML (Office Open XML) Documents. You need to call a different part of POI to process this data (eg HSSF instead of XSSF)" />
+      <item value="Set autoArray property and return receiver." />
+      <item value="vendor" />
+      <item value="昨天&#10;" />
+      <item value="repairing Namespaces" />
+      <item value="multiple PI" />
+      <item value="凭证&#10;&#10;" />
+      <item value="凭证种类&#10;" />
+      <item value="凭证种类" />
+      <item value="币种&#10;" />
+      <item value="借贷&#10;" />
+      <item value="借贷" />
+      <item value="jiedai " />
+      <item value="调账序号&#10;&#10;&#10;" />
+      <item value="调账&#10;&#10;" />
+      <item value="调&#10;" />
+      <item value="调涨序号&#10;" />
+      <item value="调涨" />
+      <item value="柜员交易号&#10;" />
+      <item value="柜员交易号" />
+      <item value="附言&#10;" />
+      <item value="附言" />
+      <item value="敷衍" />
+      <item value="fu" />
+      <item value="交易时间&#10;" />
+      <item value="开户行&#10;" />
+      <item value="开户行" />
+      <item value="对方&#10;" />
+      <item value="Transaction Detail Record" />
+      <item value="将执行日志传进去" />
+      <item value="lowest Type Id User Generator Map" />
+      <item value="``" />
+      <item value="`" />
+      <item value="Determines if the specified {@code Object} is assignment-compatible with the object represented by this {@code Class}. This method is the dynamic equivalent of the Java language {@code instanceof} operator. The method returns {@code true} if the specified {@code Object} argument is non-null and can be cast to the reference type represented by this {@code Class} object without raising a {@code ClassCastException.} It returns {@code false} otherwise. &lt;p&gt; Specifically, if this {@code Class} object represents a declared class, this method returns {@code true} if the specified {@code Object} argument is an instance of the represented class (or of any of its subclasses); it returns {@code false} otherwise. If this {@code Class} object represents an array class, this method returns {@code true} if the specified {@code Object} argument can be converted to an object of the array class by an identity conversion or by a widening reference conversion; it returns {@code false} otherwise. If this {@code Class} object represents an interface, this method returns {@code true} if the class or any superclass of the specified {@code Object} argument implements this interface; it returns {@code false} otherwise. If this {@code Class} object represents a primitive type, this method returns {@code false}. @param obj the object to check @return true if {@code obj} is an instance of this class @since 1.1" />
+      <item value="The specified SecretKey is not strong enough to be used with JWT HMAC signature algorithms. The JWT specification requires HMAC keys to be &gt;= 256 bits long. The specified key is 48 bits." />
+      <item value="The signing key's algorithm 'AES' does not equal a valid HmacSHA algorithm name and cannot be used with HS256." />
+      <item value="Consider using the io.jsonwebtoken.security.Keys class's 'secretKeyFor(SignatureAlgorithm.HS512)' method to create a key guaranteed to be secure enough for HS512" />
+      <item value="The JWT JWA Specification (RFC 7518, Section 3.2) states that keys used with HS512 MUST have a size &gt;= 512 bits (the key size must be greater than or equal to the hash output size)." />
+      <item value="The verification key's size is 48 bits which is not secure enough for the HS512 algorithm." />
+      <item value="To perform secure cryptography, operation modes and padding scheme are essentials and should be used correctly according to the encryption algorithm:&#10;&#10;For block cipher encryption algorithms (like AES), the GCM (Galois Counter Mode) mode, which works internally with zero/no padding scheme, is recommended. At the opposite, these modes and/or schemes are highly discouraged:&#10;Electronic Codebook (ECB) mode is vulnerable because it doesn't provide serious message confidentiality: under a given key any given plaintext block always gets encrypted to the same ciphertext block.&#10;Cipher Block Chaining (CBC) with PKCS#5 padding (or PKCS#7) is susceptible to padding oracle attacks.&#10;RSA encryption algorithm should be used with the recommended padding scheme (OAEP)" />
+      <item value="return" />
+      <item value="Consider defining a bean of type 'com.homolo.framework.boot.toolkit.wps.repository.WpsVersionRepository' in your configuration." />
+      <item value="指定的" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="25" />
+        <entry key="ENGLISH" value="26" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1632907283007" />
+  </component>
+  <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
+  </component>
+</application>

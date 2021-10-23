@@ -1,0 +1,14 @@
+<templateSet group="User">
+  <template name="tc" value="try (){&#10;    &#10;        } catch (IOException e) {&#10;            e.printStackTrace();&#10;        } " description="try()  catch" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="todo" value="// TODO-SL $date$ $todo$" description="孙雷的TODO" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="false" />
+    <variable name="todo" expression="user()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

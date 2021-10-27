@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="466" />
-    <option name="newTranslationDialogWidth" value="973" />
-    <option name="newTranslationDialogX" value="301" />
-    <option name="newTranslationDialogY" value="206" />
+    <option name="newTranslationDialogWidth" value="971" />
+    <option name="newTranslationDialogX" value="522" />
+    <option name="newTranslationDialogY" value="386" />
     <histories>
+      <item value="hight&#10;" />
+      <item value="hight" />
       <item value="有效" />
       <item value="停止" />
       <item value="中止" />
@@ -53,12 +55,10 @@
       <item value="The specified SecretKey is not strong enough to be used with JWT HMAC signature algorithms. The JWT specification requires HMAC keys to be &gt;= 256 bits long. The specified key is 48 bits." />
       <item value="The signing key's algorithm 'AES' does not equal a valid HmacSHA algorithm name and cannot be used with HS256." />
       <item value="Consider using the io.jsonwebtoken.security.Keys class's 'secretKeyFor(SignatureAlgorithm.HS512)' method to create a key guaranteed to be secure enough for HS512" />
-      <item value="The JWT JWA Specification (RFC 7518, Section 3.2) states that keys used with HS512 MUST have a size &gt;= 512 bits (the key size must be greater than or equal to the hash output size)." />
-      <item value="The verification key's size is 48 bits which is not secure enough for the HS512 algorithm." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="25" />
+        <entry key="CHINESE" value="26" />
         <entry key="ENGLISH" value="26" />
       </map>
     </option>

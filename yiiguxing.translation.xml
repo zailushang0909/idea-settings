@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="522" />
     <option name="newTranslationDialogY" value="372" />
     <histories>
+      <item value="运维" />
       <item value="·" />
       <item value="父、" />
       <item value="父" />
@@ -54,7 +55,6 @@
       <item value="交易时间&#10;" />
       <item value="开户行&#10;" />
       <item value="开户行" />
-      <item value="对方&#10;" />
     </histories>
     <option name="languageScores">
       <map>

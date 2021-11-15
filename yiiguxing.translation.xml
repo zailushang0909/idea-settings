@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="466" />
-    <option name="newTranslationDialogWidth" value="955" />
+    <option name="newTranslationDialogWidth" value="951" />
     <option name="newTranslationDialogX" value="178" />
     <option name="newTranslationDialogY" value="252" />
     <histories>
+      <item value="violates" />
+      <item value="ancestor violates" />
+      <item value="Policy directive" />
+      <item value="an ancestor violates" />
       <item value="bypassSecurityTrustResourceUrl" />
       <item value="frame-ancestors" />
       <item value="Refused to frame '&lt;URL&gt;' because an ancestor violates the following Content" />
@@ -51,14 +55,10 @@
       <item value="jiedai " />
       <item value="调账序号&#10;&#10;&#10;" />
       <item value="调账&#10;&#10;" />
-      <item value="调&#10;" />
-      <item value="调涨序号&#10;" />
-      <item value="调涨" />
-      <item value="柜员交易号&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="35" />
+        <entry key="CHINESE" value="38" />
         <entry key="ENGLISH" value="29" />
       </map>
     </option>

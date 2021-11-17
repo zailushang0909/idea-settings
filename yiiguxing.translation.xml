@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="466" />
-    <option name="newTranslationDialogWidth" value="947" />
+    <option name="newTranslationDialogWidth" value="945" />
     <option name="newTranslationDialogX" value="178" />
     <option name="newTranslationDialogY" value="252" />
     <histories>
+      <item value="执业" />
       <item value="统一&#10;" />
       <item value="对接" />
       <item value="对接&#10;" />
@@ -54,7 +55,6 @@
       <item value="凭证种类" />
       <item value="币种&#10;" />
       <item value="借贷&#10;" />
-      <item value="借贷" />
     </histories>
     <option name="languageScores">
       <map>

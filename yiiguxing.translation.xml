@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="466" />
-    <option name="newTranslationDialogWidth" value="941" />
+    <option name="newTranslationDialogWidth" value="939" />
     <option name="newTranslationDialogX" value="178" />
     <option name="newTranslationDialogY" value="252" />
     <histories>
+      <item value="有效" />
       <item value="参数" />
       <item value="法人" />
       <item value="自然人" />
@@ -36,7 +37,6 @@
       <item value="临时&#10;" />
       <item value="hight&#10;" />
       <item value="hight" />
-      <item value="有效" />
       <item value="停止" />
       <item value="中止" />
       <item value="中止&#10;" />

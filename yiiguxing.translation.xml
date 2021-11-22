@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="466" />
-    <option name="newTranslationDialogWidth" value="939" />
+    <option name="newTranslationDialogWidth" value="937" />
     <option name="newTranslationDialogX" value="178" />
     <option name="newTranslationDialogY" value="252" />
     <histories>
+      <item value="分割符" />
+      <item value="分割" />
+      <item value="分割父" />
       <item value="docker" />
       <item value="有效" />
       <item value="参数" />
@@ -52,18 +55,15 @@
       <item value="Set autoArray property and return receiver." />
       <item value="vendor" />
       <item value="昨天&#10;" />
-      <item value="repairing Namespaces" />
-      <item value="multiple PI" />
-      <item value="凭证&#10;&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="31" />
+        <entry key="CHINESE" value="42" />
+        <entry key="ENGLISH" value="32" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1636942488728" />
+    <option name="lastTrimTime" value="1637567688847" />
   </component>
 </application>

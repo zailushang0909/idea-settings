@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="466" />
-    <option name="newTranslationDialogWidth" value="935" />
+    <option name="newTranslationDialogWidth" value="933" />
     <option name="newTranslationDialogX" value="178" />
     <option name="newTranslationDialogY" value="252" />
     <histories>
+      <item value="指定" />
       <item value="Generalization" />
       <item value="过滤" />
       <item value="guo'lü" />
@@ -54,7 +55,6 @@
       <item value="Target host is not specified" />
       <item value="get Import Key" />
       <item value="The supplied data appears to be in the OLE2 Format. You are calling the part of POI that deals with OOXML (Office Open XML) Documents. You need to call a different part of POI to process this data" />
-      <item value="The supplied data appears to be in the OLE2 Format. You are calling the part of POI that deals with OOXML (Office Open XML) Documents. You need to call a different part of POI to process this data (eg HSSF instead of XSSF)" />
     </histories>
     <option name="languageScores">
       <map>

@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="466" />
-    <option name="newTranslationDialogWidth" value="933" />
+    <option name="newTranslationDialogWidth" value="931" />
     <option name="newTranslationDialogX" value="178" />
     <option name="newTranslationDialogY" value="252" />
     <histories>
+      <item value="Forcibly enter" />
+      <item value="强行进入" />
+      <item value="清醒进入" />
       <item value="指定" />
       <item value="Generalization" />
       <item value="过滤" />
@@ -52,14 +55,11 @@
       <item value="ils.execute Change(" />
       <item value="perti2_21_0_, file0_.create_date as create_d3_21_0_, fil" />
       <item value="org.apache.poi.poifs.filesystem.OfficeXmlFileException: The supplied data appears to be in the Office 2007+ XML. You are calling the part of POI that deals with OLE2 Office Documents. You need to call a different part of POI to process this data (eg XSSF instead of HSSF)" />
-      <item value="Target host is not specified" />
-      <item value="get Import Key" />
-      <item value="The supplied data appears to be in the OLE2 Format. You are calling the part of POI that deals with OOXML (Office Open XML) Documents. You need to call a different part of POI to process this data" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="48" />
-        <entry key="ENGLISH" value="37" />
+        <entry key="CHINESE" value="49" />
+        <entry key="ENGLISH" value="38" />
       </map>
     </option>
   </component>

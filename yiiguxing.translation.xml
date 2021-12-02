@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="466" />
-    <option name="newTranslationDialogWidth" value="925" />
+    <option name="newTranslationDialogWidth" value="923" />
     <option name="newTranslationDialogX" value="178" />
     <option name="newTranslationDialogY" value="252" />
     <histories>
+      <item value="过滤" />
       <item value="清除" />
       <item value="qing's" />
       <item value="清空" />
@@ -16,7 +17,6 @@
       <item value="清醒进入" />
       <item value="指定" />
       <item value="Generalization" />
-      <item value="过滤" />
       <item value="guo'lü" />
       <item value="分割符" />
       <item value="分割" />

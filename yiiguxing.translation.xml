@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="178" />
     <option name="newTranslationDialogY" value="252" />
     <histories>
+      <item value="allow Experimental Options" />
       <item value="Expected an operand but found export" />
       <item value="描述" />
       <item value="面熟" />
@@ -54,12 +55,11 @@
       <item value="付清" />
       <item value="运维&#10;" />
       <item value="sms&#10;" />
-      <item value="临时&#10;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="72" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="ENGLISH" value="63" />
       </map>
     </option>
   </component>

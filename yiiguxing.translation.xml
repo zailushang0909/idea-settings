@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="466" />
-    <option name="newTranslationDialogWidth" value="919" />
+    <option name="newTranslationDialogWidth" value="917" />
     <option name="newTranslationDialogX" value="178" />
     <option name="newTranslationDialogY" value="252" />
     <histories>
+      <item value="环境" />
       <item value="no applicable overload found" />
       <item value="上下文" />
       <item value="上下" />
@@ -54,7 +55,6 @@
       <item value="父、" />
       <item value="父" />
       <item value="父亲&#10;" />
-      <item value="父亲" />
     </histories>
     <option name="languageScores">
       <map>

@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="270" />
     <option name="newTranslationDialogY" value="257" />
     <histories>
+      <item value="mega" />
       <item value="撤回" />
       <item value="不再重试" />
       <item value="不再" />
@@ -54,12 +55,11 @@
       <item value="证书&#10;" />
       <item value="PROVINCE" />
       <item value="申请人" />
-      <item value="part-time" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="76" />
-        <entry key="ENGLISH" value="67" />
+        <entry key="ENGLISH" value="68" />
       </map>
     </option>
   </component>

@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="466" />
-    <option name="newTranslationDialogWidth" value="911" />
+    <option name="newTranslationDialogWidth" value="909" />
     <option name="newTranslationDialogX" value="270" />
     <option name="newTranslationDialogY" value="257" />
     <histories>
+      <item value="材料" />
       <item value="mega" />
       <item value="撤回" />
       <item value="不再重试" />
@@ -54,16 +55,15 @@
       <item value="证书" />
       <item value="证书&#10;" />
       <item value="PROVINCE" />
-      <item value="申请人" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="76" />
-        <entry key="ENGLISH" value="68" />
+        <entry key="CHINESE" value="83" />
+        <entry key="ENGLISH" value="75" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1638433344050" />
+    <option name="lastTrimTime" value="1638926324456" />
   </component>
 </application>

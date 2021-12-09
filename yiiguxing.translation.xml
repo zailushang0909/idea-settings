@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="466" />
-    <option name="newTranslationDialogWidth" value="909" />
+    <option name="newTranslationDialogWidth" value="907" />
     <option name="newTranslationDialogX" value="270" />
     <option name="newTranslationDialogY" value="257" />
     <histories>
+      <item value="高亮" />
       <item value="材料" />
       <item value="mega" />
       <item value="撤回" />
@@ -54,7 +55,6 @@
       <item value="Refused to frame '&lt;URL&gt;' because an ancestor violates the following Content" />
       <item value="证书" />
       <item value="证书&#10;" />
-      <item value="PROVINCE" />
     </histories>
     <option name="languageScores">
       <map>

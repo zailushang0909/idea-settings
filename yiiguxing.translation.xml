@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="466" />
-    <option name="newTranslationDialogWidth" value="907" />
-    <option name="newTranslationDialogX" value="270" />
-    <option name="newTranslationDialogY" value="257" />
+    <option name="newTranslationDialogWidth" value="905" />
+    <option name="newTranslationDialogX" value="338" />
+    <option name="newTranslationDialogY" value="249" />
     <histories>
+      <item value="Refused to frame 'http://10.222.1.52:9980/' because an ancestor violates the following Content Security Policy directive: &quot;frame-ancestors 10.222.1.52:* 10.222.11.153:*&quot;." />
       <item value="高亮" />
       <item value="材料" />
       <item value="mega" />
@@ -54,11 +55,10 @@
       <item value="frame-ancestors" />
       <item value="Refused to frame '&lt;URL&gt;' because an ancestor violates the following Content" />
       <item value="证书" />
-      <item value="证书&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="83" />
+        <entry key="CHINESE" value="85" />
         <entry key="ENGLISH" value="75" />
       </map>
     </option>

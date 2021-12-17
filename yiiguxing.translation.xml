@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="338" />
     <option name="newTranslationDialogY" value="249" />
     <histories>
+      <item value="isNumeric" />
       <item value="stuff&#10;" />
       <item value="吊销" />
       <item value="Refused to frame 'http://10.222.1.52:9980/' because an ancestor violates the following Content Security Policy directive: &quot;frame-ancestors 10.222.1.52:* 10.222.11.153:*&quot;." />
@@ -54,11 +55,10 @@
       <item value="Policy directive" />
       <item value="an ancestor violates" />
       <item value="bypassSecurityTrustResourceUrl" />
-      <item value="frame-ancestors" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="86" />
+        <entry key="CHINESE" value="87" />
         <entry key="ENGLISH" value="75" />
       </map>
     </option>

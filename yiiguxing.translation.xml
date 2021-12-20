@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="338" />
     <option name="newTranslationDialogY" value="249" />
     <histories>
+      <item value="适配" />
       <item value="isNumeric" />
       <item value="stuff&#10;" />
       <item value="吊销" />
@@ -54,16 +55,15 @@
       <item value="ancestor violates" />
       <item value="Policy directive" />
       <item value="an ancestor violates" />
-      <item value="bypassSecurityTrustResourceUrl" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="87" />
-        <entry key="ENGLISH" value="75" />
+        <entry key="CHINESE" value="88" />
+        <entry key="ENGLISH" value="76" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1639531418479" />
+    <option name="lastTrimTime" value="1639992993754" />
   </component>
 </application>

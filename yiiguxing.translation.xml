@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="338" />
     <option name="newTranslationDialogY" value="249" />
     <histories>
+      <item value="生产" />
       <item value="频率限制" />
       <item value="频率" />
       <item value="派驻" />
@@ -54,7 +55,6 @@
       <item value="法人" />
       <item value="自然人" />
       <item value="执业" />
-      <item value="统一&#10;" />
     </histories>
     <option name="languageScores">
       <map>

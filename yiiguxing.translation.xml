@@ -1,12 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="466" />
-    <option name="newTranslationDialogWidth" value="887" />
+    <option name="newTranslationDialogWidth" value="885" />
     <option name="newTranslationDialogX" value="338" />
     <option name="newTranslationDialogY" value="249" />
     <histories>
-      <item value="审核时间" />
       <item value="审核" />
+      <item value="审核时间" />
       <item value="撤销" />
       <item value="退回" />
       <item value="有效" />

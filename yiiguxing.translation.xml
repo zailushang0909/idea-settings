@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="338" />
     <option name="newTranslationDialogY" value="249" />
     <histories>
+      <item value="羽毛" />
       <item value="允许" />
       <item value="期数" />
       <item value="qi'shu" />
@@ -54,7 +55,6 @@
       <item value="指定" />
       <item value="Generalization" />
       <item value="guo'lü" />
-      <item value="分割符" />
     </histories>
     <option name="languageScores">
       <map>
@@ -64,6 +64,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1640569070449" />
+    <option name="lastTrimTime" value="1641285153029" />
   </component>
 </application>

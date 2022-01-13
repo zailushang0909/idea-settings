@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="466" />
-    <option name="newTranslationDialogWidth" value="873" />
+    <option name="newTranslationDialogWidth" value="871" />
     <option name="newTranslationDialogX" value="338" />
     <option name="newTranslationDialogY" value="249" />
     <histories>
+      <item value="采集" />
+      <item value="经纬度" />
+      <item value="金纬度" />
       <item value="纬度" />
       <item value="经度" />
       <item value="精度" />
@@ -52,14 +55,11 @@
       <item value="清除" />
       <item value="qing's" />
       <item value="清空" />
-      <item value="失败策略" />
-      <item value="失败" />
-      <item value="策略" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="103" />
-        <entry key="ENGLISH" value="90" />
+        <entry key="CHINESE" value="104" />
+        <entry key="ENGLISH" value="91" />
       </map>
     </option>
   </component>

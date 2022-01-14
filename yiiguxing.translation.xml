@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="338" />
     <option name="newTranslationDialogY" value="249" />
     <histories>
+      <item value="律师执业证号" />
       <item value="采集" />
       <item value="经纬度" />
       <item value="金纬度" />
@@ -54,7 +55,6 @@
       <item value="过滤" />
       <item value="清除" />
       <item value="qing's" />
-      <item value="清空" />
     </histories>
     <option name="languageScores">
       <map>

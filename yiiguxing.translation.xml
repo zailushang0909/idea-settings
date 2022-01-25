@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="466" />
-    <option name="newTranslationDialogWidth" value="865" />
+    <option name="newTranslationDialogWidth" value="863" />
     <option name="newTranslationDialogX" value="338" />
     <option name="newTranslationDialogY" value="249" />
     <histories>
+      <item value="是否生效" />
+      <item value="是否" />
+      <item value="有效" />
       <item value="优化" />
       <item value="EventEmitter" />
       <item value="异步" />
@@ -27,7 +30,6 @@
       <item value="审核时间" />
       <item value="撤销" />
       <item value="退回" />
-      <item value="有效" />
       <item value="生产" />
       <item value="频率限制" />
       <item value="频率" />
@@ -53,8 +55,6 @@
       <item value="上下文" />
       <item value="上下" />
       <item value="allow Experimental Options" />
-      <item value="Expected an operand but found export" />
-      <item value="描述" />
     </histories>
     <option name="languageScores">
       <map>
@@ -64,6 +64,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1642500062710" />
+    <option name="lastTrimTime" value="1643075206964" />
   </component>
 </application>

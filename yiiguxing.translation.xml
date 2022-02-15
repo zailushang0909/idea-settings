@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="466" />
-    <option name="newTranslationDialogWidth" value="861" />
+    <option name="newTranslationDialogWidth" value="859" />
     <option name="newTranslationDialogX" value="338" />
     <option name="newTranslationDialogY" value="249" />
     <histories>
+      <item value="完成" />
       <item value="唯一索引" />
       <item value="唯一" />
       <item value="是否生效" />
@@ -54,7 +55,6 @@
       <item value="tookit" />
       <item value="环境" />
       <item value="no applicable overload found" />
-      <item value="上下文" />
     </histories>
     <option name="languageScores">
       <map>
@@ -64,6 +64,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1643075206964" />
+    <option name="lastTrimTime" value="1644905607720" />
   </component>
 </application>

@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="466" />
-    <option name="newTranslationDialogWidth" value="855" />
+    <option name="newTranslationDialogWidth" value="853" />
     <option name="newTranslationDialogX" value="338" />
     <option name="newTranslationDialogY" value="249" />
     <histories>
+      <item value="电子签章" />
+      <item value="电子" />
       <item value="优化" />
       <item value="EntityCondition dataRecordCondition = new EntityCondition(DataRecord.ID); dataRecordCondition.setProperty(&quot;hasPush&quot;, true); dataRecordCondition.setProperty(&quot;entityTypeId&quot;, entity.getTypeId()); dataRecordCondition.setProperty(&quot;entityId&quot;, entity.getId()); List&lt;Entity&gt; pushRecords = this.entityService.listByConditionAndSortAndLimitSize(dataRecordCondition, Sort.by(Sort.Direction.DESC, &quot;pushTime&quot;), 1); if (CollectionUtils.isEmpty(pushRecords)) { return; } Entity pushRecord = pushRecords.get(0); String coopDataHash = pushRecord.getProperty(&quot;coopDataHash&quot;, String.class); if (StringUtils.isBlank(coopDataHash)) { return; } HashMap&lt;String, Object&gt; props = new HashMap&lt;&gt;(1); props.put(&quot;coopDataHash&quot;, coopDataHash); entity.setProperties(props); this.entityService.directUpdatePartial(entity, false);" />
       <item value="不生效" />
@@ -53,13 +55,11 @@
       <item value="撤回" />
       <item value="不再重试" />
       <item value="不再" />
-      <item value="执行器" />
-      <item value="tookit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="124" />
-        <entry key="ENGLISH" value="110" />
+        <entry key="CHINESE" value="126" />
+        <entry key="ENGLISH" value="112" />
       </map>
     </option>
   </component>

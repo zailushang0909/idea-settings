@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="338" />
     <option name="newTranslationDialogY" value="249" />
     <histories>
+      <item value="Field field = type.getField(completeField);" />
       <item value="通过" />
       <item value="信息完善" />
       <item value="信息" />
@@ -54,7 +55,6 @@
       <item value="羽毛" />
       <item value="允许" />
       <item value="期数" />
-      <item value="qi'shu" />
     </histories>
     <option name="languageScores">
       <map>

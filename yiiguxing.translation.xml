@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="466" />
-    <option name="newTranslationDialogWidth" value="823" />
+    <option name="newTranslationDialogWidth" value="819" />
     <option name="newTranslationDialogX" value="338" />
     <option name="newTranslationDialogY" value="249" />
     <histories>
+      <item value="信息完善" />
+      <item value="信息" />
+      <item value="数据完整" />
+      <item value="数据" />
       <item value="统计方式" />
       <item value="统计" />
       <item value="完善" />
@@ -17,7 +21,6 @@
       <item value="备案" />
       <item value="bei" />
       <item value="数据重复" />
-      <item value="数据" />
       <item value="数据重读" />
       <item value="职务" />
       <item value="职务&#10;" />
@@ -52,14 +55,11 @@
       <item value="期数" />
       <item value="qi'shu" />
       <item value="审核" />
-      <item value="审核时间" />
-      <item value="撤销" />
-      <item value="退回" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="151" />
-        <entry key="ENGLISH" value="137" />
+        <entry key="CHINESE" value="153" />
+        <entry key="ENGLISH" value="139" />
       </map>
     </option>
   </component>

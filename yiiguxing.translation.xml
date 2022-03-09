@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="466" />
-    <option name="newTranslationDialogWidth" value="815" />
+    <option name="newTranslationDialogWidth" value="813" />
     <option name="newTranslationDialogX" value="338" />
     <option name="newTranslationDialogY" value="249" />
     <histories>
+      <item value="操作" />
+      <item value="c" />
       <item value="提供" />
       <item value="Field field = type.getField(completeField);" />
       <item value="通过" />
@@ -53,13 +55,11 @@
       <item value="坐标" />
       <item value="attachment" />
       <item value="附件" />
-      <item value="羽毛" />
-      <item value="允许" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="153" />
-        <entry key="ENGLISH" value="139" />
+        <entry key="CHINESE" value="154" />
+        <entry key="ENGLISH" value="140" />
       </map>
     </option>
   </component>

@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="338" />
     <option name="newTranslationDialogY" value="249" />
     <histories>
+      <item value="tunnel" />
       <item value="主管机关" />
       <item value="操作" />
       <item value="c" />
@@ -54,16 +55,15 @@
       <item value="经度" />
       <item value="精度" />
       <item value="坐标" />
-      <item value="attachment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="154" />
+        <entry key="CHINESE" value="155" />
         <entry key="ENGLISH" value="140" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1646632183476" />
+    <option name="lastTrimTime" value="1647222923813" />
   </component>
 </application>

@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="466" />
-    <option name="newTranslationDialogWidth" value="801" />
+    <option name="newTranslationDialogWidth" value="799" />
     <option name="newTranslationDialogX" value="338" />
     <option name="newTranslationDialogY" value="249" />
     <histories>
+      <item value="今年" />
       <item value="减" />
       <item value="实际" />
       <item value="账单确认" />
@@ -54,7 +55,6 @@
       <item value="唯一" />
       <item value="是否生效" />
       <item value="是否" />
-      <item value="有效" />
     </histories>
     <option name="languageScores">
       <map>
@@ -64,6 +64,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1647222923813" />
+    <option name="lastTrimTime" value="1647837630868" />
   </component>
 </application>

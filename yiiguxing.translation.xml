@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="338" />
     <option name="newTranslationDialogY" value="249" />
     <histories>
+      <item value="计算" />
       <item value="省直管委会" />
       <item value="省直" />
       <item value="提供" />
@@ -54,12 +55,11 @@
       <item value="电子签章" />
       <item value="电子" />
       <item value="EntityCondition dataRecordCondition = new EntityCondition(DataRecord.ID); dataRecordCondition.setProperty(&quot;hasPush&quot;, true); dataRecordCondition.setProperty(&quot;entityTypeId&quot;, entity.getTypeId()); dataRecordCondition.setProperty(&quot;entityId&quot;, entity.getId()); List&lt;Entity&gt; pushRecords = this.entityService.listByConditionAndSortAndLimitSize(dataRecordCondition, Sort.by(Sort.Direction.DESC, &quot;pushTime&quot;), 1); if (CollectionUtils.isEmpty(pushRecords)) { return; } Entity pushRecord = pushRecords.get(0); String coopDataHash = pushRecord.getProperty(&quot;coopDataHash&quot;, String.class); if (StringUtils.isBlank(coopDataHash)) { return; } HashMap&lt;String, Object&gt; props = new HashMap&lt;&gt;(1); props.put(&quot;coopDataHash&quot;, coopDataHash); entity.setProperties(props); this.entityService.directUpdatePartial(entity, false);" />
-      <item value="不生效" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="161" />
-        <entry key="ENGLISH" value="146" />
+        <entry key="CHINESE" value="163" />
+        <entry key="ENGLISH" value="148" />
       </map>
     </option>
   </component>

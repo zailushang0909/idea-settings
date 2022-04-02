@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="338" />
     <option name="newTranslationDialogY" value="249" />
     <histories>
+      <item value="等待" />
       <item value="合格" />
       <item value="autoPrimitive" />
       <item value="计算" />
@@ -54,7 +55,6 @@
       <item value="源" />
       <item value="对接" />
       <item value="前缀" />
-      <item value="电子签章" />
     </histories>
     <option name="languageScores">
       <map>

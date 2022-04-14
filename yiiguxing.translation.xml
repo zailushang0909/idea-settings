@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="466" />
-    <option name="newTranslationDialogWidth" value="767" />
+    <option name="newTranslationDialogWidth" value="765" />
     <option name="newTranslationDialogX" value="338" />
     <option name="newTranslationDialogY" value="249" />
     <histories>
+      <item value="最新时间" />
+      <item value="最新" />
+      <item value="在最新" />
       <item value="表名" />
       <item value="表" />
       <item value="内容" />
@@ -52,14 +55,11 @@
       <item value="信息完善" />
       <item value="信息" />
       <item value="数据完整" />
-      <item value="数据" />
-      <item value="统计方式" />
-      <item value="统计" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="177" />
-        <entry key="ENGLISH" value="159" />
+        <entry key="CHINESE" value="178" />
+        <entry key="ENGLISH" value="160" />
       </map>
     </option>
   </component>

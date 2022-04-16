@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="466" />
-    <option name="newTranslationDialogWidth" value="765" />
-    <option name="newTranslationDialogX" value="338" />
-    <option name="newTranslationDialogY" value="249" />
+    <option name="newTranslationDialogWidth" value="763" />
+    <option name="newTranslationDialogX" value="728" />
+    <option name="newTranslationDialogY" value="518" />
     <histories>
+      <item value="Method annotated with @Bean is called directly. Use dependency injection instead." />
       <item value="最新时间" />
       <item value="最新" />
       <item value="在最新" />
@@ -54,11 +55,10 @@
       <item value="通过" />
       <item value="信息完善" />
       <item value="信息" />
-      <item value="数据完整" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="178" />
+        <entry key="CHINESE" value="179" />
         <entry key="ENGLISH" value="160" />
       </map>
     </option>

@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="466" />
-    <option name="newTranslationDialogWidth" value="763" />
+    <option name="newTranslationDialogWidth" value="761" />
     <option name="newTranslationDialogX" value="728" />
     <option name="newTranslationDialogY" value="518" />
     <histories>
+      <item value="降级" />
       <item value="定制" />
       <item value="Method annotated with @Bean is called directly. Use dependency injection instead." />
       <item value="最新时间" />
@@ -54,7 +55,6 @@
       <item value="c" />
       <item value="Field field = type.getField(completeField);" />
       <item value="通过" />
-      <item value="信息完善" />
     </histories>
     <option name="languageScores">
       <map>
@@ -64,6 +64,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1649667429293" />
+    <option name="lastTrimTime" value="1650246797857" />
   </component>
 </application>

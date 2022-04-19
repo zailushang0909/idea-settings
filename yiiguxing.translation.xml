@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="728" />
     <option name="newTranslationDialogY" value="518" />
     <histories>
+      <item value="EAGER" />
       <item value="降级" />
       <item value="定制" />
       <item value="Method annotated with @Bean is called directly. Use dependency injection instead." />
@@ -54,11 +55,10 @@
       <item value="操作" />
       <item value="c" />
       <item value="Field field = type.getField(completeField);" />
-      <item value="通过" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="179" />
+        <entry key="CHINESE" value="180" />
         <entry key="ENGLISH" value="160" />
       </map>
     </option>

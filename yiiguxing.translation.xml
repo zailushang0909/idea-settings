@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="466" />
-    <option name="newTranslationDialogWidth" value="757" />
+    <option name="newTranslationDialogWidth" value="755" />
     <option name="newTranslationDialogX" value="728" />
     <option name="newTranslationDialogY" value="518" />
     <histories>
+      <item value="过滤" />
       <item value="保留" />
       <item value="bao" />
       <item value="权限" />
@@ -43,7 +44,6 @@
       <item value="提供" />
       <item value="符合条件" />
       <item value="符合" />
-      <item value="过滤" />
       <item value="今年" />
       <item value="减" />
       <item value="实际" />

@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="728" />
     <option name="newTranslationDialogY" value="518" />
     <histories>
+      <item value="preview" />
+      <item value="pre" />
       <item value="lastStep" />
       <item value="EAGER" />
       <item value="降级" />
@@ -53,12 +55,10 @@
       <item value="颈" />
       <item value="tunnel" />
       <item value="主管机关" />
-      <item value="操作" />
-      <item value="c" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="181" />
+        <entry key="CHINESE" value="182" />
         <entry key="ENGLISH" value="160" />
       </map>
     </option>

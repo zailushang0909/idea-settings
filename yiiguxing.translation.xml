@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="728" />
     <option name="newTranslationDialogY" value="518" />
     <histories>
+      <item value="备份" />
       <item value="过滤" />
       <item value="保留" />
       <item value="bao" />
@@ -54,7 +55,6 @@
       <item value="pai" />
       <item value="补充" />
       <item value="经办人" />
-      <item value="颈半人" />
     </histories>
     <option name="languageScores">
       <map>

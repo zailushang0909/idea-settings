@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="466" />
-    <option name="newTranslationDialogWidth" value="743" />
+    <option name="newTranslationDialogWidth" value="741" />
     <option name="newTranslationDialogX" value="728" />
     <option name="newTranslationDialogY" value="518" />
     <histories>
+      <item value="提供" />
       <item value="Field sort = type.getField(&quot;sort&quot;);" />
       <item value="排序" />
       <item value="电子签章" />
@@ -53,7 +54,6 @@
       <item value="计算" />
       <item value="省直管委会" />
       <item value="省直" />
-      <item value="提供" />
       <item value="符合条件" />
     </histories>
     <option name="languageScores">

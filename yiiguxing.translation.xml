@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="466" />
-    <option name="newTranslationDialogWidth" value="733" />
+    <option name="newTranslationDialogWidth" value="731" />
     <option name="newTranslationDialogX" value="728" />
     <option name="newTranslationDialogY" value="518" />
     <histories>
+      <item value="执业证号" />
       <item value="与 XX比" />
       <item value="与 XX" />
       <item value="与 " />
@@ -54,7 +55,6 @@
       <item value="审核" />
       <item value="许可" />
       <item value="证书" />
-      <item value="elapsed" />
     </histories>
     <option name="languageScores">
       <map>

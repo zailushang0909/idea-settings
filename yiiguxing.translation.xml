@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="466" />
-    <option name="newTranslationDialogWidth" value="729" />
+    <option name="newTranslationDialogWidth" value="727" />
     <option name="newTranslationDialogX" value="728" />
     <option name="newTranslationDialogY" value="518" />
     <histories>
+      <item value="重复" />
       <item value="模糊查询" />
       <item value="模糊" />
       <item value="执业证号" />
@@ -54,7 +55,6 @@
       <item value="待预审" />
       <item value="预审" />
       <item value="受理" />
-      <item value="审核" />
     </histories>
     <option name="languageScores">
       <map>
@@ -64,6 +64,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1652165971786" />
+    <option name="lastTrimTime" value="1652874302005" />
   </component>
 </application>

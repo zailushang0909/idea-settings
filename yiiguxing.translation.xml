@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="466" />
-    <option name="newTranslationDialogWidth" value="727" />
+    <option name="newTranslationDialogWidth" value="725" />
     <option name="newTranslationDialogX" value="728" />
     <option name="newTranslationDialogY" value="518" />
     <histories>
+      <item value="相等" />
       <item value="重复" />
       <item value="模糊查询" />
       <item value="模糊" />
@@ -54,7 +55,6 @@
       <item value="tuan" />
       <item value="待预审" />
       <item value="预审" />
-      <item value="受理" />
     </histories>
     <option name="languageScores">
       <map>

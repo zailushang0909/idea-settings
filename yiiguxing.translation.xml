@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="728" />
     <option name="newTranslationDialogY" value="518" />
     <histories>
+      <item value="invalid" />
       <item value="剔除字段" />
       <item value="剔除" />
       <item value="有权限" />
@@ -54,11 +55,10 @@
       <item value="最新" />
       <item value="在最新" />
       <item value="表名" />
-      <item value="表" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="202" />
+        <entry key="CHINESE" value="203" />
         <entry key="ENGLISH" value="180" />
       </map>
     </option>

@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="466" />
-    <option name="newTranslationDialogWidth" value="717" />
+    <option name="newTranslationDialogWidth" value="715" />
     <option name="newTranslationDialogX" value="728" />
     <option name="newTranslationDialogY" value="518" />
     <histories>
+      <item value="监听器" />
       <item value="invalid" />
       <item value="剔除字段" />
       <item value="剔除" />
@@ -54,7 +55,6 @@
       <item value="最新时间" />
       <item value="最新" />
       <item value="在最新" />
-      <item value="表名" />
     </histories>
     <option name="languageScores">
       <map>

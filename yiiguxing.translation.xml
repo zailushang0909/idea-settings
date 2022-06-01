@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="466" />
-    <option name="newTranslationDialogWidth" value="713" />
+    <option name="newTranslationDialogWidth" value="711" />
     <option name="newTranslationDialogX" value="728" />
     <option name="newTranslationDialogY" value="518" />
     <histories>
+      <item value="子节点" />
+      <item value="自" />
+      <item value="下级" />
       <item value="变量" />
       <item value="监听器" />
       <item value="invalid" />
@@ -52,9 +55,6 @@
       <item value="EAGER" />
       <item value="降级" />
       <item value="定制" />
-      <item value="Method annotated with @Bean is called directly. Use dependency injection instead." />
-      <item value="最新时间" />
-      <item value="最新" />
     </histories>
     <option name="languageScores">
       <map>

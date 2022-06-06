@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="466" />
-    <option name="newTranslationDialogWidth" value="707" />
+    <option name="newTranslationDialogWidth" value="705" />
     <option name="newTranslationDialogX" value="728" />
     <option name="newTranslationDialogY" value="372" />
     <histories>
+      <item value="max_old_space_size" />
+      <item value="m&#10;ax_old_space_size" />
+      <item value="ax_old_space_size" />
       <item value=" Failed at the test@0.0.0 dev script." />
       <item value="This is probably not a problem with npm. There is likely additional logging output above." />
       <item value="子节点" />
@@ -52,13 +55,10 @@
       <item value="bao" />
       <item value="权限" />
       <item value="preview" />
-      <item value="pre" />
-      <item value="lastStep" />
-      <item value="EAGER" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="205" />
+        <entry key="CHINESE" value="206" />
         <entry key="ENGLISH" value="180" />
       </map>
     </option>

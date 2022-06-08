@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="728" />
     <option name="newTranslationDialogY" value="372" />
     <histories>
+      <item value="异步" />
       <item value="数据列" />
       <item value="数据" />
       <item value="字段" />
@@ -54,7 +55,6 @@
       <item value="多出來" />
       <item value="多" />
       <item value="duo" />
-      <item value="完成" />
     </histories>
     <option name="languageScores">
       <map>

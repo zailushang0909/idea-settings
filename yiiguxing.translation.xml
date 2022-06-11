@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="466" />
-    <option name="newTranslationDialogWidth" value="695" />
+    <option name="newTranslationDialogWidth" value="693" />
     <option name="newTranslationDialogX" value="728" />
     <option name="newTranslationDialogY" value="372" />
     <histories>
+      <item value="终审" />
       <item value="驱动" />
       <item value="状态驱动" />
       <item value="状态" />
@@ -54,7 +55,6 @@
       <item value="电子签章" />
       <item value="电子" />
       <item value="complete" />
-      <item value="多出來" />
     </histories>
     <option name="languageScores">
       <map>

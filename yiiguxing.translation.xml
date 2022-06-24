@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="579" />
     <option name="newTranslationDialogY" value="232" />
     <histories>
+      <item value="toolkit" />
       <item value="Pay frequency after trial" />
       <item value="frequency" />
       <item value="完成" />
@@ -54,11 +55,10 @@
       <item value="附属表" />
       <item value="主体" />
       <item value="提供" />
-      <item value="Field sort = type.getField(&quot;sort&quot;);" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="211" />
+        <entry key="CHINESE" value="212" />
         <entry key="ENGLISH" value="183" />
       </map>
     </option>

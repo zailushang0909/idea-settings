@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="579" />
     <option name="newTranslationDialogY" value="232" />
     <histories>
+      <item value="f" />
+      <item value="first name" />
+      <item value="firsty" />
       <item value="toolkit" />
       <item value="Pay frequency after trial" />
       <item value="frequency" />
@@ -52,18 +55,15 @@
       <item value="与" />
       <item value="相差" />
       <item value="附属" />
-      <item value="附属表" />
-      <item value="主体" />
-      <item value="提供" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="212" />
+        <entry key="CHINESE" value="213" />
         <entry key="ENGLISH" value="183" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1655860006611" />
+    <option name="lastTrimTime" value="1656301080449" />
   </component>
 </application>

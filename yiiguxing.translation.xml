@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="466" />
-    <option name="newTranslationDialogWidth" value="683" />
+    <option name="newTranslationDialogWidth" value="681" />
     <option name="newTranslationDialogX" value="579" />
     <option name="newTranslationDialogY" value="232" />
     <histories>
+      <item value="重构&#10;" />
       <item value="f" />
       <item value="first name" />
       <item value="firsty" />
@@ -54,7 +55,6 @@
       <item value="与 " />
       <item value="与" />
       <item value="相差" />
-      <item value="附属" />
     </histories>
     <option name="languageScores">
       <map>

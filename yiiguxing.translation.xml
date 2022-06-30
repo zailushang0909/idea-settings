@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="579" />
     <option name="newTranslationDialogY" value="232" />
     <histories>
+      <item value="多线程" />
       <item value="多类型附属信息" />
       <item value="多类型附属" />
       <item value="多类型" />
@@ -54,12 +55,11 @@
       <item value="模糊查询" />
       <item value="模糊" />
       <item value="执业证号" />
-      <item value="与 XX比" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="216" />
-        <entry key="ENGLISH" value="185" />
+        <entry key="CHINESE" value="217" />
+        <entry key="ENGLISH" value="186" />
       </map>
     </option>
   </component>

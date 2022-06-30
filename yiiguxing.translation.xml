@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="466" />
-    <option name="newTranslationDialogWidth" value="679" />
+    <option name="newTranslationDialogWidth" value="677" />
     <option name="newTranslationDialogX" value="579" />
     <option name="newTranslationDialogY" value="232" />
     <histories>
+      <item value="多类型附属信息" />
+      <item value="多类型附属" />
+      <item value="多类型" />
       <item value="Caught exception 'throwable' is immediately rethrown" />
       <item value="重构&#10;" />
       <item value="f" />
@@ -52,14 +55,11 @@
       <item value="模糊" />
       <item value="执业证号" />
       <item value="与 XX比" />
-      <item value="与 XX" />
-      <item value="与 " />
-      <item value="与" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="214" />
-        <entry key="ENGLISH" value="183" />
+        <entry key="CHINESE" value="216" />
+        <entry key="ENGLISH" value="185" />
       </map>
     </option>
   </component>

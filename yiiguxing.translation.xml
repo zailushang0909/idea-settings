@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="579" />
     <option name="newTranslationDialogY" value="232" />
     <histories>
+      <item value="unclassified" />
+      <item value="unclass" />
       <item value="属性" />
       <item value="多线程" />
       <item value="多类型附属信息" />
@@ -53,12 +55,10 @@
       <item value="明文" />
       <item value="铭文" />
       <item value="相等" />
-      <item value="模糊查询" />
-      <item value="模糊" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="217" />
+        <entry key="CHINESE" value="218" />
         <entry key="ENGLISH" value="186" />
       </map>
     </option>

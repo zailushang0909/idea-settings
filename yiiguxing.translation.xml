@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="579" />
     <option name="newTranslationDialogY" value="232" />
     <histories>
+      <item value="完成" />
       <item value="unclassified" />
       <item value="unclass" />
       <item value="属性" />
@@ -20,7 +21,6 @@
       <item value="toolkit" />
       <item value="Pay frequency after trial" />
       <item value="frequency" />
-      <item value="完成" />
       <item value="绑定" />
       <item value="终审" />
       <item value="驱动" />

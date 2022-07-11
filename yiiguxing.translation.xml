@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="466" />
-    <option name="newTranslationDialogWidth" value="675" />
+    <option name="newTranslationDialogWidth" value="673" />
     <option name="newTranslationDialogX" value="579" />
     <option name="newTranslationDialogY" value="232" />
     <histories>
+      <item value="encapsulation" />
       <item value="完成" />
       <item value="unclassified" />
       <item value="unclass" />
@@ -54,12 +55,11 @@
       <item value="状态机" />
       <item value="明文" />
       <item value="铭文" />
-      <item value="相等" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="218" />
-        <entry key="ENGLISH" value="186" />
+        <entry key="CHINESE" value="219" />
+        <entry key="ENGLISH" value="187" />
       </map>
     </option>
   </component>

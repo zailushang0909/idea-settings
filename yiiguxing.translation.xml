@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="466" />
-    <option name="newTranslationDialogWidth" value="667" />
+    <option name="newTranslationDialogWidth" value="665" />
     <option name="newTranslationDialogX" value="579" />
     <option name="newTranslationDialogY" value="232" />
     <histories>
+      <item value="explicit exit notify" />
+      <item value="explicit exit-notify" />
+      <item value="explicit-exit-notify" />
       <item value="te" />
       <item value="Cert" />
       <item value="期望" />
@@ -52,14 +55,11 @@
       <item value="变量" />
       <item value="监听器" />
       <item value="invalid" />
-      <item value="剔除字段" />
-      <item value="剔除" />
-      <item value="有权限" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="225" />
-        <entry key="ENGLISH" value="191" />
+        <entry key="CHINESE" value="226" />
+        <entry key="ENGLISH" value="192" />
       </map>
     </option>
   </component>

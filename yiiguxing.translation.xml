@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="466" />
-    <option name="newTranslationDialogWidth" value="655" />
+    <option name="newTranslationDialogWidth" value="653" />
     <option name="newTranslationDialogX" value="579" />
     <option name="newTranslationDialogY" value="232" />
     <histories>
+      <item value="RangeError" />
       <item value="部分" />
       <item value="整体" />
       <item value="属性" />
@@ -54,12 +55,11 @@
       <item value="max_old_space_size" />
       <item value="m&#10;ax_old_space_size" />
       <item value="ax_old_space_size" />
-      <item value=" Failed at the test@0.0.0 dev script." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="228" />
-        <entry key="ENGLISH" value="192" />
+        <entry key="CHINESE" value="229" />
+        <entry key="ENGLISH" value="193" />
       </map>
     </option>
   </component>

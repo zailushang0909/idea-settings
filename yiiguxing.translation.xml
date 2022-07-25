@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="466" />
-    <option name="newTranslationDialogWidth" value="663" />
+    <option name="newTranslationDialogWidth" value="661" />
     <option name="newTranslationDialogX" value="579" />
     <option name="newTranslationDialogY" value="232" />
     <histories>
+      <item value="JASYPT" />
       <item value="加密页面" />
       <item value="加密" />
       <item value="explicit exit notify" />
@@ -54,11 +55,10 @@
       <item value="子节点" />
       <item value="自" />
       <item value="下级" />
-      <item value="变量" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="226" />
+        <entry key="CHINESE" value="227" />
         <entry key="ENGLISH" value="192" />
       </map>
     </option>

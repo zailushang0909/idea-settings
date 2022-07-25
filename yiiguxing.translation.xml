@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="466" />
-    <option name="newTranslationDialogWidth" value="661" />
+    <option name="newTranslationDialogWidth" value="659" />
     <option name="newTranslationDialogX" value="579" />
     <option name="newTranslationDialogY" value="232" />
     <histories>
+      <item value="transientVars" />
+      <item value="transient" />
       <item value="JASYPT" />
       <item value="加密页面" />
       <item value="加密" />
@@ -53,12 +55,10 @@
       <item value=" Failed at the test@0.0.0 dev script." />
       <item value="This is probably not a problem with npm. There is likely additional logging output above." />
       <item value="子节点" />
-      <item value="自" />
-      <item value="下级" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="227" />
+        <entry key="CHINESE" value="228" />
         <entry key="ENGLISH" value="192" />
       </map>
     </option>

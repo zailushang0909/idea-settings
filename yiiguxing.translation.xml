@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="466" />
-    <option name="newTranslationDialogWidth" value="659" />
+    <option name="newTranslationDialogWidth" value="655" />
     <option name="newTranslationDialogX" value="579" />
     <option name="newTranslationDialogY" value="232" />
     <histories>
+      <item value="部分" />
+      <item value="整体" />
+      <item value="属性" />
       <item value="transientVars" />
       <item value="transient" />
       <item value="JASYPT" />
@@ -21,7 +24,6 @@
       <item value="完成" />
       <item value="unclassified" />
       <item value="unclass" />
-      <item value="属性" />
       <item value="多线程" />
       <item value="多类型附属信息" />
       <item value="多类型附属" />
@@ -53,8 +55,6 @@
       <item value="m&#10;ax_old_space_size" />
       <item value="ax_old_space_size" />
       <item value=" Failed at the test@0.0.0 dev script." />
-      <item value="This is probably not a problem with npm. There is likely additional logging output above." />
-      <item value="子节点" />
     </histories>
     <option name="languageScores">
       <map>

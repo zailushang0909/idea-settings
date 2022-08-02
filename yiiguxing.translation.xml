@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="466" />
-    <option name="newTranslationDialogWidth" value="651" />
+    <option name="newTranslationDialogWidth" value="649" />
     <option name="newTranslationDialogX" value="579" />
     <option name="newTranslationDialogY" value="232" />
     <histories>
+      <item value="预约会见资格" />
+      <item value="预约会见" />
+      <item value="预约" />
       <item value="密码" />
       <item value="RangeError" />
       <item value="部分" />
@@ -52,9 +55,6 @@
       <item value="唯一" />
       <item value="唯一建" />
       <item value="重复" />
-      <item value="密评" />
-      <item value="max_old_space_size" />
-      <item value="m&#10;ax_old_space_size" />
     </histories>
     <option name="languageScores">
       <map>

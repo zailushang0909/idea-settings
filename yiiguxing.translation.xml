@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="579" />
     <option name="newTranslationDialogY" value="232" />
     <histories>
+      <item value="会见" />
       <item value="预约会见资格" />
       <item value="预约会见" />
       <item value="预约" />
@@ -54,7 +55,6 @@
       <item value="唯一索引" />
       <item value="唯一" />
       <item value="唯一建" />
-      <item value="重复" />
     </histories>
     <option name="languageScores">
       <map>

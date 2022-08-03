@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="466" />
-    <option name="newTranslationDialogWidth" value="649" />
+    <option name="newTranslationDialogWidth" value="647" />
     <option name="newTranslationDialogX" value="579" />
     <option name="newTranslationDialogY" value="232" />
     <histories>
+      <item value="有效期" />
       <item value="会见" />
       <item value="预约会见资格" />
       <item value="预约会见" />
@@ -54,7 +55,6 @@
       <item value="列" />
       <item value="唯一索引" />
       <item value="唯一" />
-      <item value="唯一建" />
     </histories>
     <option name="languageScores">
       <map>
@@ -64,6 +64,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1658307411139" />
+    <option name="lastTrimTime" value="1659519117517" />
   </component>
 </application>

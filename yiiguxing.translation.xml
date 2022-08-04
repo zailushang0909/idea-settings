@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="579" />
     <option name="newTranslationDialogY" value="232" />
     <histories>
+      <item value="申请&#10;" />
+      <item value="申请" />
       <item value="失效" />
       <item value="试下" />
       <item value="频率" />
@@ -53,8 +55,6 @@
       <item value="状态" />
       <item value="异步" />
       <item value="数据列" />
-      <item value="数据" />
-      <item value="字段" />
     </histories>
     <option name="languageScores">
       <map>

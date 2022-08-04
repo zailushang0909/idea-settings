@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="466" />
-    <option name="newTranslationDialogWidth" value="643" />
+    <option name="newTranslationDialogWidth" value="641" />
     <option name="newTranslationDialogX" value="579" />
     <option name="newTranslationDialogY" value="232" />
     <histories>
+      <item value="动态" />
       <item value="申请&#10;" />
       <item value="申请" />
       <item value="失效" />
@@ -54,7 +55,6 @@
       <item value="状态驱动" />
       <item value="状态" />
       <item value="异步" />
-      <item value="数据列" />
     </histories>
     <option name="languageScores">
       <map>

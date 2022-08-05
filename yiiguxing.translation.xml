@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="466" />
-    <option name="newTranslationDialogWidth" value="629" />
+    <option name="newTranslationDialogWidth" value="627" />
     <option name="newTranslationDialogX" value="579" />
     <option name="newTranslationDialogY" value="232" />
     <histories>
+      <item value="爽约" />
       <item value="过期" />
       <item value="待核验" />
       <item value="核验" />
@@ -54,7 +55,6 @@
       <item value="Caught exception 'throwable' is immediately rethrown" />
       <item value="重构&#10;" />
       <item value="f" />
-      <item value="first name" />
     </histories>
     <option name="languageScores">
       <map>

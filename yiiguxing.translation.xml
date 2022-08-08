@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="579" />
     <option name="newTranslationDialogY" value="232" />
     <histories>
+      <item value="监所" />
       <item value="操作纪录" />
       <item value="操作" />
       <item value="爽约" />
@@ -54,7 +55,6 @@
       <item value="多类型附属信息" />
       <item value="多类型附属" />
       <item value="多类型" />
-      <item value="Caught exception 'throwable' is immediately rethrown" />
     </histories>
     <option name="languageScores">
       <map>
